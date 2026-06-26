@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassam Muhammad</h1>
-<h3 align="center">💻 Software Engineer | 🎓 BSSE @ CUST | 🚀 Tech Enthusiast</h3>
+<h3 align="center">💻 Software Engineer (Graduated) | 🎓 BSSE @ CUST | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-%2300bfff?style=for-the-badge" />
@@ -56,6 +56,8 @@ Here are some of my featured projects:
 ### 🏅 Achievements
 
 - 🏆 Volunteer at **CUST Hackathon 2025**
+- 🏆 Volunteer at **CUST Hackathon 13 july 2026**
+- 🏆 Participant at **CUST Hackathon 13 july 2026**
 - 🎓 Participant in **Youth Leadership Convention** by Youth Association of Pakistan
 
 ---
